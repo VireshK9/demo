@@ -1,0 +1,162 @@
+body{
+    color: white;
+    margin: 0;
+    background-color: #06283D;
+}
+h2{
+    color: white;
+    margin-top: 0;
+    padding-bottom: 1.25em;
+    font-family: 'Proxima', sans-serif;
+}
+h3{
+    font-weight: 800;
+    font-size: 150%;
+    font-family: 'Proxima', sans-serif;
+}
+h4{
+    font-weight: 600;
+    font-size: 110%;
+    font-family: 'Proxima', sans-serif;
+}
+
+/* Header Section */
+
+.top-header{
+    background-color: white;
+    padding-top: 1.5%;
+}
+.CCA{
+    color: black;
+    padding-bottom: 1.5%;
+    padding-right: 8%;
+}
+.logo{
+    width: 30px;
+    height: 30px;
+    float: left;
+    margin-right: 0.8%;
+    margin-left: 16.5%;
+}
+
+/* Page Heading  */
+
+h1{
+    color: white;
+    margin: 0;
+    position: absolute;
+    padding-top: 1.8%;
+    padding-left: 8%;
+    padding-right: 2%;
+    font-family: 'Montserrat', sans-serif;
+}
+.heading{
+    width: 600px;
+    height: 70px;
+    margin-top: 2%;
+    padding-bottom: 0.5%;
+    padding-left: 8.5%;
+    padding-right: 8%;
+}
+
+/* Syllabus / Topics */
+.syllabus{
+    padding-top: 02%;
+    padding-left: 16.5%;
+    padding-bottom: 1%;
+    padding-right: 8%;
+}
+
+/* All Resources */
+.resourses{
+    padding-top: 2%;
+    padding-left: 16.5%;
+    padding-bottom: 2%;
+    padding-right: 8%;
+}
+
+.python{
+    padding-top: 2%;
+    padding-left: 16.5%;
+    padding-bottom: 2%;
+    padding-right: 8%;
+}
+.intro-html{
+    padding-top: 2%;
+    padding-left: 16.5%;
+    padding-bottom: 2%;
+    padding-right: 8%;
+}
+.intro-css{
+    padding-top: 2%;
+    padding-left: 16.5%;
+    padding-bottom: 2%;
+    padding-right: 8%;
+}
+.intro-js{
+    padding-top: 2%;
+    padding-left: 16.5%;
+    padding-bottom: 2%;
+    padding-right: 8%;
+}
+.intro-django{
+    padding-top: 2%;
+    padding-left: 16.5%;
+    padding-bottom: 2%;
+    padding-right: 8%;
+}
+.projects{
+    padding-top: 1%;
+    padding-left: 16.5%;
+    padding-bottom: 2%;
+    padding-right: 8%;
+}
+
+/* Extensions Page */
+
+.Top1{
+    padding-top: 2%;
+    padding-left: 16.5%;
+    padding-bottom: 2%;
+    padding-right: 8%;
+}
+.note{
+    padding-top: 0.5%;
+    padding-left: 16.5%;
+    padding-bottom: 2%;
+    padding-right: 8%;
+}
+.vs-img{
+    width: 40%;
+    height: 40%;
+}
+.python-img{
+    width: 20%;
+    height: 20%;
+}
+.note-h{
+    color: red;
+    margin: 0;
+    padding-bottom:1%;
+}
+.website{
+    margin-top: 6%;
+}
+/* Link Effects */
+
+a{
+    color: #47B5FF ;
+}
+li{
+    font-size: 18px;
+    font-family: 'Montserrat', sans-serif;
+}
+a:link {
+    background-color: transparent;
+    text-decoration: none;
+  }
+a:hover {
+    color: blue;
+    background-color: transparent;
+    text-decoration: underline;
+  }
